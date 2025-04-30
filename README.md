@@ -1,4 +1,4 @@
-Projekt z studiów magisterskich Data Science.
+Projekt z studiów magisterskich Data Science, polegający na pozyksaniu danych, przygotowania ich i zbudowanie modeli klasyfikacji. 
 Dane na temat iphonów został pozyskany poprzez webscrapping ze sklepu internetowego E-bay
 
 Pliki:
