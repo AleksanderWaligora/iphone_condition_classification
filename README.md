@@ -4,12 +4,12 @@ Project involved gathering and preparing data and building and evaluating classi
 
 Files:
 
-web_scrapping: retriving data from E-bay using webscrapping.
+web_scrapping.ipynb: retriving data from E-bay using webscrapping.
 
 ebay_iphone_uncleaned.csv: raw data from webscrapping.
 
 ebay_ipone.csv: prepared data.
 
-data_evaluation: przygotowanie danych pod modelowanie.
+data_evaluation.ipynb : preparing data for training.
 
-model: training and evaluating created models.
+model.ipynb : training and evaluating created models.
