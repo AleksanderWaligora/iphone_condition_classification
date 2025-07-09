@@ -1,14 +1,15 @@
-Projekt z studiów magisterskich Data Science, polegający na pozyksaniu danych, przygotowania ich i zbudowanie modeli klasyfikacji. 
-Dane na temat iphonów został pozyskany poprzez webscrapping ze sklepu internetowego E-bay
 
-Pliki:
+A Machine Learning project about predicting condition of Iphones based on their listing on E-bay.
+Project involved gathering and preparing data and building and evaluating classification models. 
 
-web_scrapping: pozyskanie danych przy metody web scrappingu
+Files:
 
-ebay_iphone_uncleaned.csv: nieprzygotowane surowe dane pozyskane z webscrappingu
+web_scrapping: retriving data from E-bay using webscrapping.
 
-ebay_ipone.csv: przygotowane dane pod modelowanie
+ebay_iphone_uncleaned.csv: raw data from webscrapping.
 
-data_evaluation: przygotowanie danych pod modelowanie
+ebay_ipone.csv: prepared data.
 
-model: budowa modeli i ich ewaluacja
+data_evaluation: przygotowanie danych pod modelowanie.
+
+model: training and evaluating created models.
